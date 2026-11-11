@@ -1,0 +1,1 @@
+El embudo tiene un problema que es que despues de usar la opcion de espesor para vacear el solido y luego con hueco para hacer un agujero del tamaño del tubo para poder que enchocle, se genera una parte rara del solido
